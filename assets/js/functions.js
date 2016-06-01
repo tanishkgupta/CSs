@@ -133,7 +133,7 @@ jQuery(document).ready(function($) {
 $(window).load(function () {    
     "use strict";
     $("#loader").fadeOut();
-    $("#preloader").delay(270).fadeOut("slow");
+    $("#preloader").delay(255).fadeOut("slow");
 });
  /* Preloder End
 -------------------------------------------------------------------*/
